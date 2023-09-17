@@ -1,0 +1,20 @@
+METODOS:
+
+* Las operacones o metodos son acciones contenidas en una claseq y definen su comportamiento.
+* Dentro de un sistema, las operaciones suelen detectarse como verbos.
+* Desde la perspectiva de diseño y programacion, se denominan Metodos.
+* Desde la perspectiva de analisis, se denominan Operaciones.
+* Pueden tener opcionalmente valores de entrada (Parametros) y valores de salida (Retorno).
+* Pueden existir Porcedimientos (no retornan valor, void) y funciones (retornan un valor)
+
+METODOS CONSTRUCTORES:
+* Son funciones especiales que sirven para la creacion de objetos.
+* Se llaman siempre igual que la clase
+* No retornan ningun valor
+* Pueden tener parametros de entrada como no
+
+TIPOS:
+    - Construcores vacios
+    - Constructores con parametros
+
+(***) Para construirlos, se debe ir a la opcion de Click derecho -> Generate -> Constructor -> Seleccionar los atributos que se desean incluir en el constructor o si se quiere vacio.

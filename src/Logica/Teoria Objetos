@@ -1,0 +1,9 @@
+OBJETOS:
+Un objeto es una instancia de una clase. Es la representacion de un objeto que generalmente existe en la vida real.
+Ejemplo: Un objeto de la clase Persona puede ser Juan Perez, que tiene un nombre, apellido, edad, etc.
+
+Posee un estado, de acuerdo a sus atributos
+Posee un comportamiento, de acuerdo a sus metodos
+
+¿Como creo objetos?
+Se crean a partir de los metodos constructores (ver teoria Metodos)
